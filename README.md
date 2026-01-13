@@ -5,6 +5,6 @@
 -->
 My name is Yulia, and I’m an experienced Business Intelligence Analyst with a background in finance and operations and a master’s degree in Business Analytics. 
 
-I am interested in Data Science and enjoy developing analytical solutions that transform complex information into clear and actionable insights. My projects involve time-series forecasting, machine learning, NLP, regression, clustering, optimisation, and data visualisation. 
+Passionate about data, I enjoy developing analytical solutions that turn complex data into clear, actionable insights, whether for a personal problem, such as creating a workout-tracker dashboard to support decision-making around workload planning and performance optimisation, or in a professional context, synthesising complex data to identify key drivers, anomalies, and emerging patterns in operational and financial performance. My projects include time-series forecasting, machine learning, natural language processing (NLP), regression analysis, clustering techniques, simulation, optimisation, and data visualisation.
 
-My technical toolkit includes Python, R, SQL, Microsoft Excel (Solver, VBA), Power BI, and Tableau.
+My tech stack include Python, R, SQL, Excel (VBA, Power Query, Solver, pivot tables, macros), Markdown, Git, IBM Cognos Analytics, Power BI, and Tableau.
